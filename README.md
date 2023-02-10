@@ -1,3 +1,5 @@
+This is simply a program that will take two inputs: a(7) and b(2). Then the output will switch the values: a(2) to b(7).
+
 I am taking a Python course through udemy.com. The instructor is Dr. Angela Yu. During this course there are many 'coding challenges' and other projects. The course name is: 100 Days of Code: The Complete Python Pro Bootcamp for 2023. 
 
 I have decided to break up the many challenges and projects by going through 10 days of the course, then revisiting every challenge. I believe this will strengthen my coding knowledge that I am aquiring in this course. My goal is to not look at the code that I have already done for the challenge and complete the running program again of my own volition.
